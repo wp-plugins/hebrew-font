@@ -3,7 +3,7 @@
  * Plugin Name: Hebrew Font
  * Plugin URI: http://www.webview.co.il/plugins/hebrew-font/
  * Description: Hebrew Font plugin provides an easy way to use Hebrew fonts on your WordPress website.
- * Version: 0.1
+ * Version: 0.2
  * Author: Nilly Klein
  * Author URI: http://www.webView.co.il
  * License: GPL2
