@@ -50,3 +50,6 @@ Visit <a href="http://www.webview.co.il/plugins/hebrew-font/" target="_blank">He
 
 = 0.1 =
 Plugin released
+
+= 0.2 =
+Tested with WordPress 4.2
